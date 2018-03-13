@@ -1,0 +1,10 @@
+C:\Users\FRABASCO\source\repos\Ejhercicio1\Ejhercicio1\bin\Debug\Ejhercicio1.exe.config
+C:\Users\FRABASCO\source\repos\Ejhercicio1\Ejhercicio1\bin\Debug\Ejhercicio1.exe
+C:\Users\FRABASCO\source\repos\Ejhercicio1\Ejhercicio1\bin\Debug\Ejhercicio1.pdb
+C:\Users\FRABASCO\source\repos\Ejhercicio1\Ejhercicio1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FRABASCO\source\repos\Ejhercicio1\Ejhercicio1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FRABASCO\source\repos\Ejhercicio1\Ejhercicio1\obj\Debug\Ejhercicio1.csproj.CoreCompileInputs.cache
+C:\Users\FRABASCO\source\repos\Ejhercicio1\Ejhercicio1\obj\Debug\Ejhercicio1.csproj.CopyComplete
+C:\Users\FRABASCO\source\repos\Ejhercicio1\Ejhercicio1\obj\Debug\Ejhercicio1.exe
+C:\Users\FRABASCO\source\repos\Ejhercicio1\Ejhercicio1\obj\Debug\Ejhercicio1.pdb
+C:\Users\FRABASCO\source\repos\Ejhercicio1\Ejhercicio1\obj\Debug\Ejhercicio1.csprojResolveAssemblyReference.cache
